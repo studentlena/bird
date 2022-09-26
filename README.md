@@ -517,4 +517,4 @@ if __name__ == '__main__':
 | 网络预测模型 | UrbanSound8K | [点击下载](https://resource.doiduoyi.com/#so8e51u) |
 
 # 来源
-[https://github.com/yeyupiaoling/AudioClassification-Tensorflow]（https://github.com/yeyupiaoling/AudioClassification-Tensorflow）
+[https://github.com/yeyupiaoling/AudioClassification-Tensorflow](https://github.com/yeyupiaoling/AudioClassification-Tensorflow)
